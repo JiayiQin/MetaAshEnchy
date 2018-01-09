@@ -1,0 +1,2 @@
+
+fastqc *.fastq -o FASTQC 
